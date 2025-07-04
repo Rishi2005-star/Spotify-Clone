@@ -1,9 +1,2 @@
-Copyright (c) 2025 Rishi Bhardwaj
-
-All rights reserved.
-
-This source code is proprietary and confidential.  
-Unauthorized copying of this file, via any medium, is strictly prohibited.  
-No permission is granted to modify, distribute, sublicense, or use any part of this project without explicit written permission from the author.
-
-For inquiries, contact: rishi2208bhardwaj@gmail.com
+# Spotifyclone
+🎵 Spotify Clone - HTML | CSS | JavaScript  A sleek, responsive clone of Spotify’s user interface built using pure HTML, CSS, and vanilla JavaScript. This project features real-time music playback, custom play/pause/next/previous controls, dynamic song lists, and a functional progress bar — all without external libraries.      🚀 Designed to mimic the core UX of Spotify with a lightweight and performant codebase.  🔧 Features:      Dynamic playlist with song name injection      Independent play buttons with automatic pause of other tracks      Play/Pause toggle syncs with master control      Previous/Next navigation support      Custom range-based progress bar      Fully responsive UI using modern CSS  💡 Tech Stack:      HTML5      CSS3      JavaScript (ES6+)      FontAwesome (for icons)
